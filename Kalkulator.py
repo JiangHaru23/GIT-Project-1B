@@ -6,3 +6,5 @@ print(penjumlahan)
 
 pembagian = a/b
 print(pembagian)
+perkalian = a * b
+
